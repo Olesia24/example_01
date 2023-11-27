@@ -5,5 +5,10 @@ public class Test2 {
         System.out.println("Task of Anton");
 
 
+        Apple apple = new Apple("Antonovka");
+
+        System.out.println(apple);
+
+
     }
 }
